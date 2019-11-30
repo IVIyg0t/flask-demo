@@ -4,7 +4,11 @@ Simple Flask API Demonstration Which Simulates a Users Database
 # Installation
 
 1. If you do not have Anaconda installed... Install it w/
-    - `brew cask install anaconda` (OSX)
+    - OSX
+        - `brew cask install anaconda`
+    - OTher Platforms
+        - [Anaconda Website](https://www.anaconda.com/distribution/)
+        - Install 3.7 version
 2. Clone this repo
 3. Change directories to to the cloned repo
 4. Create a Conda environment
